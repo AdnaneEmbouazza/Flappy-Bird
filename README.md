@@ -1,15 +1,5 @@
 
-<img width="567" height="493" alt="image" src="https://github.com/user-attachments/assets/110143a9-6c11-4501-b469-bd0ce08d43ca" />
-
-
-
-
-
-<img width="580" height="532" alt="image" src="https://github.com/user-attachments/assets/6514c8a4-1d83-4efc-8bed-a83984a177bc" />
-
-
-
-
+<img width="567" height="493" alt="image" src="https://github.com/user-attachments/assets/110143a9-6c11-4501-b469-bd0ce08d43ca" />  <img width="580" height="532" alt="image" src="https://github.com/user-attachments/assets/6514c8a4-1d83-4efc-8bed-a83984a177bc" />
 
 
 # Flappy Bird (Unity)
